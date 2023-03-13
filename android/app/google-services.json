@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826010800659",
+    "project_id": "to-do-lis-eeb87",
+    "storage_bucket": "to-do-lis-eeb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826010800659:android:3c1844ef6951723ced25e6",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826010800659-7cmklkinrou0jnuo25ugruq3sr18kfkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jWMu7O3JbiXf0inZjTBuV4k3mrWG5JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826010800659-7cmklkinrou0jnuo25ugruq3sr18kfkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
